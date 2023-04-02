@@ -1,5 +1,7 @@
 # Hosting static website on aws EC2 Instance with Docker Container
 
+Youtube Video Link: https://youtu.be/47nHb27AxEk
+
 ## Steps : 
 
 1. Create a Security Group on AWS EC2 :  Allow port 80 (http) and 22 (ssh) inbound rule
